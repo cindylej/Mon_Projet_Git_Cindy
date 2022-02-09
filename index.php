@@ -42,13 +42,13 @@
       <div class="collapse navbar-collapse" id="navbarsExample04">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="home.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#">News</a>
+            <a class="nav-link active" href="news.php">News</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active">A propos</a>
+            <a class="nav-link active"href="a_propos">A propos</a>
           </li>
           <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
   Information
