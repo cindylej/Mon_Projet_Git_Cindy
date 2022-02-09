@@ -50,19 +50,19 @@
           <li class="nav-item">
             <a class="nav-link active">A propos</a>
           </li>
-       
+          <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+  Information
+</a>
         </ul>
         <form>
+
           <input class="form-control" type="text" placeholder="Search" aria-label="Search">
         </form>
       </div>
+ 
     </div>
-    <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
-  Information
-</a>
-<button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-  Button with data-bs-target
-</button>
+
+
 
 
   </nav>
